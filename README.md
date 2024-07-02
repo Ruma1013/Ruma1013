@@ -4,12 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chamudi-senanayake)](https://www.linkedin.com/in/chamudi-senanayake)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=google-chrome&logoColor=white&link=https://chamudisenanayake.com)](https://precious-kitsune-f26d21.netlify.app/)
 
-I'm a Full-Stack Web Developer and UI/UX Designer. I am passionate about web experiences, sharing knowledge, documentation, and others.
+I'm 3rd year undergraduate of Computing Faculty in Sabaragamuwa University of SriLanka and also I'm Aspiring Full-Stack Developer & UI/UX Designer. I am passionate about web experiences, sharing knowledge, documentation, and others.
 
 Here's a quick summary about me:
 
 - 😊 Pronouns: She/her
-- ⚽ Fun fact: I love sports. I play Table Tennis and Football.
+- ⚽ Fun fact: I love Drawing. I love pencil arts, oil-paint arts.
 - 🌱 I’m currently learning .Net, Angular, and laravel.
 - 🤝 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Full-Stack Developer, UI/UX Engineer or Web Developer (Intern or Junior level).
