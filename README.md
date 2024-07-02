@@ -1,4 +1,4 @@
-# Hi, I'm Chamudi Senanayake! 👋
+# Hi, I'm Chamudi Rumanda Senanayake ..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chamudi-senanayake)](https://www.linkedin.com/in/chamudi-senanayake)
