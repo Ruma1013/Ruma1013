@@ -1,37 +1,34 @@
-# Hi, I'm Chamudi Rumanda Senanayake! 👋
+# Hi, I'm Chamudi Senanayake! 👋
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/chamudi-senanayake)
-- [Twitter](https://twitter.com/ChamudiSenanayake)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chamudi-senanayake)](https://www.linkedin.com/in/chamudi-senanayake)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=google-chrome&logoColor=white&link=https://chamudisenanayake.com)](https://precious-kitsune-f26d21.netlify.app/)
 
-## 💼 Portfolio:
-- [My Portfolio](https://chamudisenanayake.com)
+I'm a Full-Stack Web Developer and UI/UX Designer. I am passionate about web experiences, sharing knowledge, documentation, and others.
 
-## 🚀 Skills:
-- **Languages:** HTML, CSS, JavaScript, TypeScript, C#, Python
-- **Frameworks:** .NET Core, React, Node.js, Express
-- **Tools:** Visual Studio, Git, Docker, Figma
+Here's a quick summary about me:
 
-## 🛠️ Projects:
-### [SnapStream](https://github.com/Ruma1013/SnapStream)
-A social media application using MERN with Auth, Likes, and Dark Mode.
+- 😊 Pronouns: She/her
+- ⚽ Fun fact: I love sports. I play Table Tennis and Football.
+- 🌱 I’m currently learning .Net, Angular, and laravel.
+- 🤝 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Full-Stack Developer, UI/UX Engineer or Web Developer (Intern or Junior level).
+- 📫 You can [view my resume](https://chamudisenanayake.com) and contact me by emailing chamudi.senanayake@example.com.
 
-### [AutoHunt](https://github.com/Ruma1013/AutoHunt)
-Car Sale Web Application using MERN stack.
-
-### [My Portfolio](https://github.com/Ruma1013/My-Portfolio)
-My portfolio website showcasing my projects and skills.
-
-### [Flask-NoteBook-App](https://github.com/Ruma1013/Flask-NoteBook-App)
-A simple Notebook application using Flask.
-
-### [ASP.NET-App](https://github.com/Ruma1013/ASP.NET-App)
-A smart driving license web application.
+## 🛠️ Tech Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat-square&logo=express)
+![.NET](https://img.shields.io/badge/-.NET-333?style=flat-square&logo=dotnet)
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
 
 ## 📊 GitHub Stats:
 ![Chamudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruma1013&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma1013&layout=compact&theme=radical)
 
-## 💬 Contact Me:
-- Email: chamudi.senanayake@example.com
