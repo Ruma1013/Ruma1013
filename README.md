@@ -13,7 +13,7 @@ Here's a quick summary about me:
 - 🌱 I’m currently learning .Net, Angular, and laravel.
 - 🤝 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Full-Stack Developer, UI/UX Engineer or Web Developer (Intern or Junior level).
-- 📫 You can [view my resume](https://chamudisenanayake.com) and contact me by emailing chamudi.senanayake@example.com.
+- 📫 You can [view my resume](https://chamudisenanayake.com) and contact me by emailing rumandasenanayake@gmail.com.
 
 ## 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
